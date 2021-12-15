@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  background-color: rgb(241, 101, 50);
+}
+li {
+  display: inline;
+}
+.newsBlock {
+  background-color: rgb(80, 80, 207);
+}
+.lrm1 {
+  background-color: rgb(80, 163, 80);
+}
+.lrm2 {
+  background-color: rgb(245, 245, 79);
+}
+.foot {
+  background-color: violet;
+}
